@@ -20,4 +20,9 @@ Utilize conditional rendering in React to achieve this functionality.
 
 Steps: To run this code are simple
 
-1.# Codedamn-30-Days-React-Challenge
+Quick Start
+Follow the below steps to run the project.
+
+1. Clone repository
+2. Run npm i command to install dependencies
+3. Execute npm start command to run the project
