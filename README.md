@@ -20,4 +20,3 @@ Utilize conditional rendering in React to achieve this functionality.
 
 Steps: To run this code are simple
 
-1.# Codedamn-30-Days-React-Challenge
