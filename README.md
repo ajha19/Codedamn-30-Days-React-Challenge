@@ -1,5 +1,7 @@
 -----Paragraph toggling app-----
 
+Note*: Please seclect challenges branch to see all dates challenges with project solutions.
+
 In this lab, you will be developing a simple React application that toggles the visibility of a paragraph. You'll be testing your skills in handling user interactions and managing component states in React.
 
 Objectives
